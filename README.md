@@ -20,8 +20,6 @@ Additionally, a global set-up is under development that will link to input files
 
 **Contact (PCR-GLOBWB2)**: Edwin H. Sutanudjaja (E.H.Sutanudjaja@uu.nl). 
 
-DynQual v1.0: [![DOI](https://zenodo.org/badge/380942111.svg)](https://zenodo.org/badge/latestdoi/380942111)
-
 ### Main references/ papers:
 **DynQual**: Jones, E. R., Bierkens, M. F. P., Wanders, N., Sutanudjaja, E. H., van Beek, L. P. H., and van Vliet, M. T. H.: DynQual v1.0: a high-resolution global surface water quality model, Geosci. Model Dev., 16, 4481–4500, https://doi.org/10.5194/gmd-16-4481-2023, 2023.
 
