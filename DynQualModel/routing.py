@@ -3895,7 +3895,7 @@ class Routing(object):
         cd = self.accuTT_characteristicDistance
 
         #Energy (for water temperature) routing 
-        self.volumeEW = self.volumeEW + self.PowTwload
+        self.volumeEW = self.volumeEW #+ self.PowTwload #no PowTwload when running with accuTT currently
         self.volumeEW = pcr.cover(pcr.accutraveltimestate(self.lddMap, pcr.max(0.0, self.volumeEW), cd), 0.0)
 
         #Salinity (TDS) routing
